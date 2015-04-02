@@ -1,0 +1,6 @@
+"literp"
+{
+	"base"		"sandbox"
+	"title"		"LiteRP"
+	"author"	"Chris & Riekelt"
+}
