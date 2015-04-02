@@ -7,4 +7,9 @@ GM.Author = "Chris & Riekelt";
 
 -- Send Shared Files
 
--- Send Server Files
+-- Send Client Files
+AddCSLuaFile("cl_init.lua");
+
+function GM:Initialize()
+	GM = self;
+end
